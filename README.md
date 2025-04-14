@@ -16,7 +16,7 @@ A Nova field for uploading File, Image and Video using [Filepond](https://github
 You can install the package via composer:
 
 ```shell
-composer require digital-creative/nova-filepond
+composer require juniora/nova-filepond
 ```
 
 # Features
